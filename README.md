@@ -1,5 +1,5 @@
 # podatkovne-baze1
-Prva ura na vajah predmeta Podatkovne baze. Repozitorij.2
+Prva ura na vajah predmeta Podatkovne baze. Repozitorij.123
 
 Now is the time to make real the promises of democracy. Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice. Now is the time to lift our nation from the quick sands of racial injustice to the solid rock of brotherhood. Now is the time to make justice a reality for all of God's children.
 
